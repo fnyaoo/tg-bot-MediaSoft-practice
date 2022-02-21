@@ -1,5 +1,5 @@
-# roflanBotyara
-Это мой Рофлан Ботяра, сделанный для практики MediaSoft
+#TG bot for MediaSoft practice
+Бот сделанный для практики MediaSoft
 ***
 Он умеет: <br>
 -Смотреть погоду в Ульяновске <br>
